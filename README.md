@@ -9,9 +9,9 @@ algorithm for event recommendation. Deploy web server on Amazon EC2 instances.([
 ```
  git clone https://github.com/dianalh1212/fullstack-web-application.git
 ```
- Apache Tomcat
- Eclipse JEE 
- MySQL
+ - Apache Tomcat
+ - Eclipse JEE 
+ - MySQL
  
  
  
